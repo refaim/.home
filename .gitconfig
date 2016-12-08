@@ -1,0 +1,21 @@
+[user]
+    email = rkharito@yandex.ru
+    name = Roman Kharitonov
+[alias]
+    ap=add -p
+    ci=commit
+    br=branch
+    di=diff
+    ds=diff --cached
+    dt=difftool -d
+    st=status --short -b
+    h=help
+    fix=commit --amend -C HEAD
+    cd=checkout .
+[color]
+    status=auto
+[color "status"]
+    added = green
+    changed = blue
+    untracked = magenta
+    deleted = red

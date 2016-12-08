@@ -1,0 +1,11 @@
+.bash_history
+.bash_logout
+.cache
+.config/htop/
+.config/mc/panels.ini
+.lesshst
+.local/share/mc/filepos
+.local/share/mc/history
+.ssh
+.vim-fuf-data
+.viminfo
